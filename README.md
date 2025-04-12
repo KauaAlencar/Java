@@ -1,51 +1,60 @@
 # ☕ Atividades em Java
 
-Este repositório contém exercícios e atividades desenvolvidos em Java durante meus estudos na graduação em Sistemas da Informação.
+Este repositório reúne exercícios e pequenos projetos desenvolvidos em Java durante minha graduação em **Sistemas da Informação**. O objetivo é aplicar os conhecimentos adquiridos nas disciplinas de programação, com foco em boas práticas, lógica e organização de código.
 
-## 🧠 Objetivo
+---
 
-Praticar os conceitos fundamentais da linguagem Java, incluindo:
+## 🎯 Objetivos do Repositório
+
+Praticar os principais conceitos da linguagem Java, incluindo:
+
 - Sintaxe básica
 - Estruturas de decisão e repetição
 - Programação orientada a objetos (POO)
-- Vetores e matrizes
-- Métodos e classes
+- Manipulação de vetores e matrizes
+- Modularização com métodos e classes
+
+---
 
 ### 🎭 Exercício: Quantidade de Convites para Cobrir o Custo
 
-Este programa simula uma situação de cálculo de viabilidade financeira para um espetáculo. Ele solicita ao usuário:
+Este programa simula um cálculo de viabilidade financeira para um espetáculo. O usuário informa:
 
-- 💰 O custo total de produção do evento  
+- 💰 O custo total de produção  
 - 🎟️ O valor de cada ingresso  
 
-Com base nesses dados, o programa calcula:
+Com base nesses dados, o sistema calcula:
 
-- A **quantidade mínima de ingressos** que precisam ser vendidos para **cobrir o custo de produção**
-- A **quantidade de ingressos necessária para obter 23% de lucro**
+- A **quantidade mínima de ingressos** necessária para **cobrir o custo de produção**
+- A **quantidade de ingressos** necessária para obter um **lucro de 23%**
 
 📌 **Destaque técnico:**  
-O método `Math.ceil()` é utilizado para arredondar o número de ingressos para cima, já que não é possível vender uma fração de ingresso.
+Utiliza `Math.ceil()` para arredondar o número de ingressos para cima, já que não é possível vender frações de ingresso.
 
+---
 
 ### 🧮 Projeto: Operações com Vetores
 
-Este programa implementa um menu interativo com diversas operações sobre vetores de inteiros, utilizando a linguagem Java.
+Este projeto apresenta um menu interativo com múltiplas operações sobre vetores de inteiros, possibilitando:
 
-O usuário pode:
-
-- Inicializar um vetor com números aleatórios entre 0 e um valor máximo
+- Inicializar um vetor com números aleatórios
 - Imprimir o vetor
-- Verificar se um valor está presente no vetor
-- Buscar o maior valor armazenado
+- Verificar se um número está presente
+- Buscar o maior valor
 - Calcular a média dos números pares
 - Calcular o percentual de números ímpares
 - Calcular a média centralizada (ignorando o menor e o maior valor)
-- Verificar se há dois números cuja soma corresponde a um valor informado
+- Verificar se há dois números cuja soma seja igual a um valor informado
 
 🧠 **Objetivo do exercício:**  
-Exercitar o uso de vetores, estruturas de repetição, condicionais e modularização com métodos em Java.
+Praticar a manipulação de vetores e o uso de estruturas como `for`, `switch`, métodos e entradas com `Scanner`.
 
 🔍 **Destaques técnicos:**
-- Uso de `Random` para gerar números aleatórios
-- Uso de `for`, `if/else`, `switch` e `Scanner` para entrada de dados
-- Organização em métodos auxiliares para melhorar a legibilidade e reutilização de código
+- Uso da classe `Random` para geração de números aleatórios
+- Organização do código em métodos para melhor reutilização e legibilidade
+- Validações para garantir que o vetor esteja inicializado antes das operações
+
+---
+
+✏️ Mais atividades serão adicionadas conforme avanço nos estudos.  
+Fique à vontade para explorar e acompanhar meu progresso!
