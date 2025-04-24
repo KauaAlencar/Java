@@ -55,6 +55,28 @@ Praticar a manipulação de vetores e o uso de estruturas como `for`, `switch`, 
 - Validações para garantir que o vetor esteja inicializado antes das operações
 
 ---
+Aqui está o seu README atualizado com a nova atividade “Relógio Digital” adicionada no mesmo estilo das anteriores:
+
+---
+
+### ⏰ Projeto: Relógio Digital
+
+Este programa simula o funcionamento de um relógio digital no formato 24 horas, permitindo acompanhar o avanço do tempo segundo a segundo. Ele conta com:
+
+- ⏱️ Atributos para **hora**, **minuto** e **segundo**
+- ⛔ Validações nos `setters` para impedir valores fora do intervalo permitido
+- 🔄 Método `tick()` que incrementa corretamente o tempo, respeitando os limites de cada unidade (ex.: 23:59:59 → 00:00:00)
+- 🖨️ Método `getHorario()` que exibe o horário formatado com zeros à esquerda
+
+🧠 **Objetivo do exercício:**  
+Praticar manipulação de tempo, uso de condicionais encadeadas, validação de dados e formatação de saída com `String.format`.
+
+🔍 **Destaques técnicos:**
+- Validação de faixas numéricas diretamente nos métodos `set`
+- Simulação de passagem de tempo com `tick()` e `Thread.sleep()` no `main`
+- Organização de código utilizando encapsulamento e boas práticas de POO
+
+---
 
 ✏️ Mais atividades serão adicionadas conforme avanço nos estudos.  
 Fique à vontade para explorar e acompanhar meu progresso!
