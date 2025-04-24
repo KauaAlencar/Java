@@ -55,9 +55,6 @@ Praticar a manipulação de vetores e o uso de estruturas como `for`, `switch`, 
 - Validações para garantir que o vetor esteja inicializado antes das operações
 
 ---
-Aqui está o seu README atualizado com a nova atividade “Relógio Digital” adicionada no mesmo estilo das anteriores:
-
----
 
 ### ⏰ Projeto: Relógio Digital
 
