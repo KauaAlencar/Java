@@ -134,5 +134,3 @@ Praticar conceitos avançados de **Programação Orientada a Objetos**, incluind
 
 ✏️ Mais atividades serão adicionadas conforme avanço nos estudos.
 Fique à vontade para explorar e acompanhar meu progresso!
-
----
