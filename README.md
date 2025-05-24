@@ -1,6 +1,6 @@
 # ☕ Atividades em Java
 
-Este repositório reúne exercícios e pequenos projetos desenvolvidos em Java durante minha graduação em **Sistemas da Informação**. O objetivo é aplicar os conhecimentos adquiridos nas disciplinas de programação, com foco em boas práticas, lógica e organização de código.
+Este repositório reúne exercícios e pequenos projetos desenvolvidos em Java durante minha graduação em **Sistemas de Informação**. O objetivo é aplicar os conhecimentos adquiridos nas disciplinas de programação, com foco em boas práticas, lógica e organização de código.
 
 ---
 
